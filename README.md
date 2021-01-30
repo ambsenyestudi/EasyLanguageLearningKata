@@ -6,6 +6,7 @@ Their current language catalog includes:
 *	French
 *	Spanish
 *	German
+
 After several meetings we got the following user stories.
 
 ## Choosing a course
@@ -57,3 +58,11 @@ A tip is an auto completed letter from the language term.
 
 Acceptance criteria:
 *	Tips cannot excide half of the length of the language term.
+
+## List of unit names
+
+> As a user of EEL when entering a course, I want a list of all units belonging to the current course and their level of completion.
+
+Acceptance criteria:
+* Unit name should be displayed per each item of the list.
+* Percentage of completion should be displayed beside unit name.
