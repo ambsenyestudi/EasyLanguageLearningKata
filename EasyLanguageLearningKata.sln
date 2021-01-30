@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLanguageLearning.Domain", "EasyLanguageLearning.Domain\EasyLanguageLearning.Domain.csproj", "{D1037F4E-C7E3-4B09-94E0-5FF45F796D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLanguageLearningKata.Test", "EasyLanguageLearningKata.Test\EasyLanguageLearningKata.Test.csproj", "{30D28F45-C376-4FF7-945E-92F71253FDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1037F4E-C7E3-4B09-94E0-5FF45F796D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1037F4E-C7E3-4B09-94E0-5FF45F796D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1037F4E-C7E3-4B09-94E0-5FF45F796D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1037F4E-C7E3-4B09-94E0-5FF45F796D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D28F45-C376-4FF7-945E-92F71253FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D28F45-C376-4FF7-945E-92F71253FDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D28F45-C376-4FF7-945E-92F71253FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D28F45-C376-4FF7-945E-92F71253FDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE53CF5-8B1B-4A98-A20C-E84FFC7470DC}
+	EndGlobalSection
+EndGlobal
