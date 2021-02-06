@@ -43,7 +43,7 @@ Acceptance criteria:
  
 ## Multiple choice
 
-> As a student of ELL I want my knowledge tested though a writing multiple choice exercise.
+> As a student of ELL I want my knowledge tested though multiple choice exercises.
 
 Acceptance criteria:
 *	A single language term should be shown either from mother language or learning language, play the role of a question.
@@ -73,7 +73,9 @@ Acceptance criteria:
 Acceptance criteria:
 * Percentage of completion should be displayed when entering a course.
 
-##As a student of ELL I want to resume my course headway where I left off
+## Pick up where I left off
+
+> As a student of ELL I want to resume my course headway where I left off.
 
 Acceptance criteria:
 * When a user acceses the system their last accessed course’s lessons should be loaded.
