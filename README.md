@@ -11,7 +11,7 @@ After several meetings we got the following user stories.
 
 ## Choosing a course
 
-> As a user of EEL I want to choose a course to learn a new language from my mother language.
+> As a student of ELL I want to choose a course to learn a new language from my mother language.
 
 Acceptance criteria:
 *	Mother language and learning language must be different.
@@ -24,7 +24,7 @@ Acceptance criteria:
 
 Every course has many units of content. Content is made of words or sentences translated to the learning language.
 
-> As EEL user I want to view a unit’s content summary to have all content translated to the course’s learning language in a single list.
+> As ELL student I want to view a unit’s content summary to have all content translated to the course’s learning language in a single list.
 
 Acceptance criteria:
 * Content list should not contain repeated language translations.
@@ -34,7 +34,7 @@ Acceptance criteria:
 
 ## Writing exercise
 
-> As a user of EEL I want my knowledge tested though a writing exercise by translating  a language term.
+> As a student of ELL I want my knowledge tested though a writing exercise by translating  a language term.
 
 Acceptance criteria:
 *	If the translation is accurate ‘well done' should be promoted.
@@ -43,7 +43,7 @@ Acceptance criteria:
  
 ## Multiple choice
 
-> As a user of EEL I want my knowledge tested though a writing multiple choice exercise.
+> As a student of ELL I want my knowledge tested though a writing multiple choice exercise.
 
 Acceptance criteria:
 *	A single language term should be shown either from mother language or learning language, play the role of a question.
@@ -54,15 +54,27 @@ Acceptance criteria:
 
 A tip is an auto completed letter from the language term.
 
-> As a user of EEL I want ask for tips when completing writing exercises in other to trigger my memory.
+> As a student of ELL I want ask for tips when completing writing exercises in other to trigger my memory.
 
 Acceptance criteria:
 *	Tips cannot excide half of the length of the language term.
 
 ## List of unit names
 
-> As a user of EEL when entering a course, I want a list of all units belonging to the current course and their level of completion.
+> As a student of ELL I want a list of all units belonging to a course so when a course is selected I can have an idea of what it’s units are about.
 
 Acceptance criteria:
 * Unit name should be displayed per each item of the list.
-* Percentage of completion should be displayed beside unit name.
+
+## Course progress
+
+> As a student of ELL I want to know my level of completion so that I can know how much of the current course I have gone through.
+
+Acceptance criteria:
+* Percentage of completion should be displayed when entering a course.
+
+##As a student of ELL I want to resume my course headway where I left off
+
+Acceptance criteria:
+* When a user acceses the system their last accessed course’s lessons should be loaded.
+
